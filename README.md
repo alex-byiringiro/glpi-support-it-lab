@@ -28,7 +28,7 @@ Ce projet est conçu comme un **support pédagogique**, mais aussi comme un **pr
 ##  Structure du projet
 
 ```arduino
-GLPI-ITSM-Projet/
+glpi-support-it-lab/
 │
 ├── 01-installation/
 │   └── installation-glpi-debian11.md
