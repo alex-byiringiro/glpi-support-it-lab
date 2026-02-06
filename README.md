@@ -45,6 +45,7 @@ glpi-support-it-lab/
 ├── 04-cas-pratiques/
 │   ├── ticket-perte-internet.md
 │   └── ticket-poste-non-demarre.md
+|
 ├── 05-screenshots/
 │
 └── README.md
