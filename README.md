@@ -1,5 +1,5 @@
 #  Projet GLPI – Mise en place d’un outil ITSM
-##  Projet personnel réalisé dans le cadre d’un home lab ITSM – GLPI 10.0.6
+##  Projet personnel réalisé dans le cadre d’un home lab ITSM – GLPI 
 ##  Objectif du projet
 
 Ce projet a pour objectif de démontrer la mise en place complète d’un **outil ITSM avec GLPI** dans un contexte professionnel.
