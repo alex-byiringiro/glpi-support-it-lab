@@ -4,12 +4,12 @@
 Ce projet a pour objectif de démontrer la mise en place complète d’un **outil ITSM avec GLPI** dans un contexte professionnel.
 Il couvre :
 
-* [l’installation de GLPI sur Debian](#/01-installation/installation-glpi-debian11.md)
-* [la configuration initiale](#02-configuration/configuration-glpi-initiale.md)
-* [la gestion des utilisateurs et des profils](#02-configuration/gestion-utilisateurs-profils.md)
-* [la gestion des tickets (incident / demande)](#03-gestion-des-tickets/creation-ticket.md)
-* [le cycle de vie d’un ticket](#03-gestion-des-tickets/cycle-de-vie-ticket.md)
-* [un workflow de support N1 / N2](#03-gestion-des-tickets/workflow-support-n1-n2.md)
+* [l’installation de GLPI sur Debian](01-installation/installation-glpi-debian11.md)
+* [la configuration initiale](02-configuration/configuration-glpi-initiale.md)
+* [la gestion des utilisateurs et des profils](02-configuration/gestion-utilisateurs-profils.md)
+* [la gestion des tickets (incident / demande)](03-gestion-des-tickets/creation-ticket.md)
+* [le cycle de vie d’un ticket](03-gestion-des-tickets/cycle-de-vie-ticket.md)
+* [un workflow de support N1 / N2](03-gestion-des-tickets/workflow-support-n1-n2.md)
 * des cas pratiques détaillés
 
 Ce projet est conçu comme un **support pédagogique**, mais aussi comme un **projet valorisable sur un CV ou en entretien** (support IT, systèmes & réseaux, cybersécurité).  
@@ -109,13 +109,13 @@ glpi-support-it-lab/
 
 ####  Cas pratique 1 – Perte de connexion Internet
 
-* [Incident réseau simple](#04-cas-pratiques/ticket-perte-internet.md)
+* [Incident réseau simple](04-cas-pratiques/ticket-perte-internet.md)
 * Résolution au niveau N1
 
 
 ####  Cas pratique 2 – Poste utilisateur qui ne démarre pas
 
-* [Incident matériel](#04-cas-pratiques/ticket-poste-non-demarre.md)
+* [Incident matériel](04-cas-pratiques/ticket-poste-non-demarre.md)
 * Escalade N1 → N2
 
 
