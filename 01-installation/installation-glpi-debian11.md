@@ -72,7 +72,7 @@ nano /etc/apache2/sites-available/glpi.conf
 #### Modifier le fichier glpi.conf
 ```apache
 <VirtualHost *:80>
-    ServerName glpi.local
+    ServerName support.localdomain.lan
     DocumentRoot /var/www/html/glpi
 
     <Directory /var/www/html/glpi>
