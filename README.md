@@ -141,6 +141,6 @@ glpi-support-it-lab/
 ##  Auteur
 
 Projet réalisé par **Alexandre BYIRINGIRO**  
-Technicien support IT / Systèmes & Réseaux 
+Technicien Systèmes et Réseaux | Support IT & Infrastructure 
 
 
