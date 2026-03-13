@@ -12,8 +12,6 @@ Il couvre :
 * [un workflow de support N1 / N2](03-gestion-des-tickets/workflow-support-n1-n2.md)
 * des cas pratiques détaillés
 
-Ce projet est conçu comme un **support pédagogique**, mais aussi comme un **projet valorisable sur un CV ou en entretien** (support IT, systèmes & réseaux, cybersécurité).  
-
 
 ## Architecture technique
 
@@ -138,9 +136,26 @@ glpi-support-it-lab/
 * Supervision et alertes
 
 
-##  Auteur
+## 🎓 Objectif pédagogique & recrutement
 
-Projet réalisé par **Alexandre BYIRINGIRO**  
-Technicien Systèmes et Réseaux | Support IT & Infrastructure 
+Ce projet met en avant :
+
+- La mise en place d’un **outil professionnel de gestion du support IT**
+- La capacité à **structurer un système de gestion des tickets et des incidents**
+- L’utilisation de **GLPI pour la gestion des utilisateurs, des actifs et du support**
+- Une approche **organisée du support informatique et de la documentation**
+
+👉 Projet conçu pour illustrer des compétences en **support IT, gestion des incidents et administration d’outils de helpdesk**, et servir de **support lors d’entretiens techniques ou de présentations professionnelles**.
+
+
+## 👤 Auteur
+
+**Alex** – Technicien Systèmes et Réseaux | Support IT & Infrastructure 
+
+
+Ce projet s’inscrit dans mon **Home Lab personnel**, où je conçois et teste des infrastructures IT afin d’approfondir mes compétences en supportr IT, en administration systèmes, réseaux et sécurité.
+
+🔗 LinkedIn : https://linkedin.com/in/alex-byiringiro   
+💻 GitHub : https://github.com/alex-byiringiro
 
 
