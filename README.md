@@ -1,4 +1,12 @@
-#  Projet GLPI – Mise en place d’un outil ITSM
+
+
+# `IT Support & Helpdesk Lab (GLPI)`
+
+**Simulation d’un environnement de support informatique**, inspiré des pratiques utilisées en entreprise, déployé sur un laboratoire virtualisé et documenté étape par étape.
+
+Ce projet a pour objectif de démontrer des compétences en **support IT, gestion des incidents et administration d’un outil de helpdesk**.  
+Il met en pratique l’utilisation de **GLPI pour la gestion des tickets, des utilisateurs et des actifs IT**, tout en suivant une approche **structurée et professionnelle de la gestion du support informatique**.
+
 ##  Objectif du projet
 
 Ce projet a pour objectif de démontrer la mise en place complète d’un **outil ITSM avec GLPI** dans un contexte professionnel.
